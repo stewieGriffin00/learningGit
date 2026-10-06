@@ -5,4 +5,8 @@ public class Main {
 		void method1(){
 			System.out.println("method 1");
 		}
-	}
+	
+		void newFeature1(){
+			System.out.println("line 1");
+		}
+}
