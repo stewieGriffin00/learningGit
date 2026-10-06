@@ -5,4 +5,6 @@ public class Main {
         void method1(){
             
         }
+
+        void method2(){}
 }
