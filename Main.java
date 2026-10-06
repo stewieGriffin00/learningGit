@@ -13,4 +13,8 @@ public class Main {
 		void checkingFetchVsPull(){
 			System.out.println("checking fetch vs pull");
 		}
+
+		void checkingFetchVsPull2(){
+			System.out.println("checking fetch vs pull 2");
+		}
 }
