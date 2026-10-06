@@ -9,4 +9,8 @@ public class Main {
 		void newFeature1(){
 			System.out.println("line 1");
 		}
+
+		void checkingFetchVsPull(){
+			System.out.println("checking fetch vs pull");
+		}
 }
